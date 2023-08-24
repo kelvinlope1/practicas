@@ -12,5 +12,6 @@ body{
     font-size: 300%;
 }
 Form{
-    
+    border: 4px solid white;
+     
 }
