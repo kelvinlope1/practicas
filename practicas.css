@@ -3,15 +3,20 @@ body{
 
 
 }
-#Ph1{
+#pra{
     color: brown;
     text-align: center;
     font-family: ariel;
     padding: 30px;
     border: 2px solid black;
     font-size: 300%;
+    display: none;
 }
 Form{
-    border: 4px solid white;
+    border: 100px solid white;
+    margin-left: 150px;
+    margin-bottom: 300px;
+    margin-right: 300px;
+    
      
 }
